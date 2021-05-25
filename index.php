@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Workshop Hari Pertama RND</title>
+	<title>Workshop Hari Pertama RND AKMET</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
